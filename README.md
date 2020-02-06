@@ -1,6 +1,6 @@
 # Spark_Streaming-Kafka
 
-Objective
+- Objective
 The objectives of this project are to get experience of coding with
 •	Spark
 •	SparkSQL
